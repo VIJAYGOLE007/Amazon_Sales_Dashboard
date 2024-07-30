@@ -1,5 +1,5 @@
 # Amazon_Sales_Dashboard
-Based on the content from the Amazon Sales Dashboard PDF, here are three professional insights:
+Based on the content from the Amazon Sales Dashboard, here are three key insights:
 
 Market Distribution:
 The sales are unevenly distributed across markets, with two dominant markets accounting for 58% of total sales. The top market represents 32% of sales, while the second-largest contributes 26%. This concentration suggests a need to evaluate market-specific strategies and potentially explore growth opportunities in smaller markets.
